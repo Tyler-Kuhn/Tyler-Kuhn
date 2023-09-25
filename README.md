@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tyler-Kuhn
 - 👀 I’m interested in AI and QA engineering
 - 🌱 I’m currently learning QA Engineering from TripleTen 
-- 💞️ I’m looking to collaborate on anything, always looking for something to try my software testing on!
+- 💞️ I’m looking to collaborate on anything, always looking for something to try my new software testing skills on!
 - 📫 How to reach me, shoot me an email at tyler.kuhn94@outlook.com !
 
 <!---
