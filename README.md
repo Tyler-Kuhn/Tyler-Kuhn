@@ -1,52 +1,57 @@
-# Tyler Kuhn: QA Engineer & Cybersecurity Professional
+# 👋 Hi, I’m Tyler Kuhn  
 
-Welcome to my GitHub profile! I'm Tyler, a QA Engineering graduate from TripleTen Bootcamp with a passion for ensuring software excellence through quality assurance testing and a budding interest in web development. Find out more about my [Background](#background), [Skills](#skills), [Projects](#projects), and [Contact](#contact) below.
+🎯 Aspiring Front-End Web Developer | Cybersecurity Enthusiast | IT Support Specialist | Software Tester | Content Creator  
 
-- [Background](#background)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Contact](#contact)
+🌐 [LinkedIn Profile](http://linkedin.com/in/iamtylerkuhn)  
+📧 Email: Tyler.kuhn94@outlook.com  
 
-## Background
+---
 
-Having completed an intensive QA Engineering Bootcamp at TripleTen, I've gained hands-on experience in both manual and automated testing. I'm also in the process of obtaining my ISTQB Foundation Level Testing certification to further hone my skills in the QA domain. In addition to QA, I'm continuously enhancing my web development skills to understand programs and web apps better, currently building my portfolio site using HTML, CSS, and JavaScript.
+## 💻 **About Me**  
+I am passionate about web development, IT support, and cybersecurity. Currently, I’m pursuing certifications and building real-world projects to enhance my technical skills. I also create engaging product videos and manage creative projects for various brands.
 
-## Skills
+---
 
-### QA Testing:
-- Manual Testing
-- Automated Testing (WebdriverIO with JavaScript)
-- Bug Documentation
-- Test Case Creation and Execution
+## 🚀 **Projects**  
 
-### Cybersecurity:
-- Python
-- Security Information and Event management (SIEM) tools
-- Intrusion Detection Systems (IDS)
-- SQL
-- Linux
+### **Web Development**  
+- **[Modern Dynamics Photography](#)** - A minimalist wedding photography portfolio built with React, HTML, CSS, JavaScript, and Swiper.js. (In Progress)  
+- **Portfolio Website (Coming Soon)** - My personal portfolio with a dark/light theme using React and HSLA color schemes.  
 
-### Tools:
-- Jira for bug tracking
-- GitHub for version control
+### **Video Content Projects**  
+- **Homegrown Holds** - A brand I’m building from scratch, documenting the journey on Instagram and YouTube.  
+- **Billo Product Videos** - Professional product videos for various brands.
 
-## Projects
-### 1. 
-### 2. Urban Grocer Web App:
-   - **Skills**: API Testing, Debugging, JSON, Postman, Node.js, JavaScript, GitHub
-   - **Description**: Tested the API of Urban Grocers app and created a valid API bug report. Designed tests for APIs using test design techniques "boundary values" and "equivalence classes." Sent JSON and XML requests to API using Postman. Composed a SOAP request according to the API documentation. Developed and executed tests for HTTP requests using Node.js and JavaScript.
+---
 
-### 3. Urban Routes Web App:
-   - **Skills**: Test Planning and Design, Debugging, Figma, Charles
-   - **Description**: Tested the frontend of the web app and issued bug reports. Designed positive and negative tests and found defects in common interface elements. Checked layout adaptability without real devices. Intercepted and spoofed requests or responses in Charles manually and automatically.
+## 📜 **Certifications**  
+- **Meta Front-End Developer Certificate (In Progress)**  
+- **Google IT Support Professional Certificate (In Progress)**  
+- **CompTIA IT Fundamentals+ (Exam Preparation)**  
+- **Software Testing Certificate - TripleTen**  
 
-### 4. Urban Lunch Mobile App:
-   - **Skills**: Android Studio, Mobile Emulator, Mobile Testing
-   - **Description**: Developed and implemented a comprehensive mobile testing strategy utilizing Android Studio and device emulators. Identified and resolved critical defects by collecting and analyzing logs from mobile emulators.
+---
 
-## Contact
+## 🛠 **Skills & Technologies**  
 
-I'm currently open to Cybersecurity opportunities. Feel free to reach out to discuss any potential collaboration or job openings.
+### **Web Development:**  
+- HTML | CSS | JavaScript | React | Swiper.js | Responsive Design  
+- Version Control: Git & GitHub  
 
-- LinkedIn: [Tyler Kuhn](https://www.linkedin.com/in/tyler-kuhn-a974171a1/)
-- Email: tyler.kuhn94@outlook.com
+### **IT Support & Cybersecurity:**  
+- IT Troubleshooting | System Administration | Cybersecurity Fundamentals  
+
+### **Content Creation:**  
+- Video Production | Photography | Product Marketing | Brand Development  
+
+---
+
+## 🎯 **Current Goals**  
+- Build a complete portfolio website showcasing my web development, IT, and creative projects.  
+- Earn front-end development and cybersecurity certifications.  
+- Start freelancing as a web developer and IT support professional.  
+
+---
+
+👨‍💻 **Let's Connect!**  
+Feel free to reach out via [LinkedIn](http://linkedin.com/in/iamtylerkuhn) or email me at **Tyler.kuhn94@outlook.com**.  
