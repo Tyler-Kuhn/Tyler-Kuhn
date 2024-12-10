@@ -18,8 +18,7 @@ I am passionate about web development, IT support, and cybersecurity. Currently,
 - **[Modern Dynamics Photography](#)** - A minimalist wedding photography portfolio built with React, HTML, CSS, JavaScript, and Swiper.js. (In Progress)  
 - **Portfolio Website (Coming Soon)** - My personal portfolio with a dark/light theme using React and HSLA color schemes.  
 
-### **Video Content Projects**  
-- **Homegrown Holds** - A brand I’m building from scratch, documenting the journey on Instagram and YouTube.  
+### **Video Content Projects**    
 - **Billo Product Videos** - Professional product videos for various brands.
 
 ---
